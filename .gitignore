@@ -10,7 +10,7 @@ riderModule.iml
 /_ReSharper.Caches/
 **/.DS_Store
 **/.idea/
-**/TimerApp.sln
+/TimerApp.sln
 
 # User-specific files
 *.rsuser
